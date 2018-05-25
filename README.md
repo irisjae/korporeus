@@ -20,6 +20,11 @@
 ## Accesible Dev
 - https://p5js.org/
 
+## Why
+- https://www.google.com.hk/search?q=change+vim+default+dark+color+scheme+site:vi.stackexchange.com&ei=P_Z-WqWdA8XQ0ATH9J_YDw&start=10&sa=N&biw=1680&bih=1050
+- http://deepeco.ucsd.edu/nonlinear-dynamics-research/edm/
+- https://en.wikipedia.org/wiki/Minkowski%E2%80%93Bouligand_dimension
+
 ## Vim
 - https://vi.stackexchange.com/questions/4307/multiple-cursors-at-desired-location
 
