@@ -37,3 +37,11 @@
 
 ### Crypto
 - https://en.bitcoin.it/wiki/Proof_of_Stake#cite_note-1
+
+## Journalism
+- https://www.quantamagazine.org/
+- http://neocha.com/magazine/
+- https://etcetera.org.au/
+- https://www.nytimes.com/column/modern-love
+- https://still-loud.com/
+- https://www.theguardian.com/uk/commentisfree
