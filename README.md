@@ -1,6 +1,7 @@
 # korporeus
 
 - https://github.com/sindresorhus/awesome 
+- https://medium.com/swlh/19-incredibly-useful-websites-youll-wish-you-knew-earlier-aff5d0f8255b
 
 ## Design Thinking
 - https://framer.com/docs/#layer.layer
