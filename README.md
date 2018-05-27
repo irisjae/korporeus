@@ -34,6 +34,7 @@
 ### Inspiration
 - https://github.com/emilwallner/Screenshot-to-code-in-keras
 - http://www.cs.virginia.edu/~robins/Alan_Turing%27s_Forgotten_Ideas.pdf
+- http://www.acsa2000.net/bcngroup/jponkp/
 
 ## QFT
 - http://quantumfieldtheory.info/
