@@ -36,14 +36,37 @@
 - http://www.cs.virginia.edu/~robins/Alan_Turing%27s_Forgotten_Ideas.pdf
 - http://www.acsa2000.net/bcngroup/jponkp/
 
-## QFT
+## Backlog
+- https://arxiv.org/pdf/1705.05750.pdf
+- https://arxiv.org/pdf/1704.01552v1.pdf
+- https://arxiv.org/pdf/1407.6552v2.pdf
+
+## Physics
+
+### QFT
 - http://quantumfieldtheory.info/
+
+### ECT
+- https://arxiv.org/pdf/gr-qc/0606062.pdf
+
 
 ## CS
 - https://theory.stanford.edu/~tim/f13/f13.html
 
+### PL
+- http://www.cl.cam.ac.uk/~sd601/papers/mlsub-preprint.pdf
+- http://www.it.uu.se/research/group/hipe/papers/succ_types.pdf
+- http://jmchapman.github.io/papers/levitation.pdf
+
 ### Crypto
 - https://en.bitcoin.it/wiki/Proof_of_Stake#cite_note-1
+
+## Tooling
+- https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/
+
+## Libs
+- https://github.com/uNetworking/uWebSockets
+- https://github.com/polytypic/fastener
 
 ## Journalism
 - https://www.quantamagazine.org/
