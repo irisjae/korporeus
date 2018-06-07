@@ -58,6 +58,10 @@
 - http://www.it.uu.se/research/group/hipe/papers/succ_types.pdf
 - http://jmchapman.github.io/papers/levitation.pdf
 
+### FP
+- http://okmij.org/ftp/continuations/zipper.html#zipper-fs
+- http://okmij.org/ftp/continuations/zipper.html#zipper-fs
+
 ### Crypto
 - https://en.bitcoin.it/wiki/Proof_of_Stake#cite_note-1
 
