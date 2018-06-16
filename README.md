@@ -60,6 +60,7 @@
 - http://blog.sigfpe.com/2007/01/monads-hidden-behind-every-zipper.html
 - http://lambda-the-ultimate.org/node/5504
 - http://okmij.org/ftp/tagless-final/nondet-effect.html
+- https://wiki.haskell.org/Declaration_vs._expression_style
 
 ### Concurrency
 - https://homes.cs.washington.edu/~djg/papers/analogy_oopsla07.pdf
