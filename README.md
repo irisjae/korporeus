@@ -57,6 +57,14 @@
 - http://www.cl.cam.ac.uk/~sd601/papers/mlsub-preprint.pdf
 - http://www.it.uu.se/research/group/hipe/papers/succ_types.pdf
 - http://jmchapman.github.io/papers/levitation.pdf
+- http://blog.sigfpe.com/2007/01/monads-hidden-behind-every-zipper.html
+- http://lambda-the-ultimate.org/node/5504
+
+### Concurrency
+- https://homes.cs.washington.edu/~djg/papers/analogy_oopsla07.pdf
+
+### Lang
+- http://learnyousomeerlang.com/contents
 
 ### FP
 - http://okmij.org/ftp/continuations/zipper.html#zipper-fs
