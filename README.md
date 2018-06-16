@@ -59,6 +59,7 @@
 - http://jmchapman.github.io/papers/levitation.pdf
 - http://blog.sigfpe.com/2007/01/monads-hidden-behind-every-zipper.html
 - http://lambda-the-ultimate.org/node/5504
+- http://okmij.org/ftp/tagless-final/nondet-effect.html
 
 ### Concurrency
 - https://homes.cs.washington.edu/~djg/papers/analogy_oopsla07.pdf
