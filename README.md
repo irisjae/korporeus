@@ -73,7 +73,9 @@
 
 ### FP
 - http://okmij.org/ftp/continuations/zipper.html#zipper-fs
-- http://okmij.org/ftp/continuations/zipper.html#zipper-fs
+
+### TFP
+- http://www.jucs.org/jucs_10_7/total_functional_programming/jucs_10_07_0751_0768_turner.pdf
 
 ### Crypto
 - https://en.bitcoin.it/wiki/Proof_of_Stake#cite_note-1
