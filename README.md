@@ -62,6 +62,9 @@
 - http://okmij.org/ftp/tagless-final/nondet-effect.html
 - https://wiki.haskell.org/Declaration_vs._expression_style
 
+### Code Generation
+- http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TM-526.pdf
+
 ### Concurrency
 - https://homes.cs.washington.edu/~djg/papers/analogy_oopsla07.pdf
 
