@@ -53,6 +53,21 @@
 ## CS
 - https://theory.stanford.edu/~tim/f13/f13.html
 
+### Platform
+- http://docs.jasonette.com/actions/
+- https://codetalk.io/posts/2018-02-07-Mobile-Haskell.html
+- https://github.com/vsouza/awesome-ios
+- https://github.com/SVGKit/SVGKit
+- https://github.com/exyte/macaw
+- https://developer.android.com/ndk/guides/standalone_toolchain
+- https://github.com/landley/toybox
+- https://skia.org/user/build
+- https://groups.google.com/forum/#!topic/skia-discuss/4FriRsx7ud4
+- https://wiki.haskell.org/Applications_and_libraries/GUI_libraries
+- https://github.com/rev22/svgl
+- http://docs.tabris.com/latest/api/Canvas.html
+- http://docs.tabris.com/2.0/build.html
+
 ### PL
 - http://www.cl.cam.ac.uk/~sd601/papers/mlsub-preprint.pdf
 - http://www.it.uu.se/research/group/hipe/papers/succ_types.pdf
