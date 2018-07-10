@@ -41,7 +41,7 @@
 - https://arxiv.org/pdf/1704.01552v1.pdf
 - https://arxiv.org/pdf/1407.6552v2.pdf
 
-## Physics
+## Natural Philosophy
 
 ### QFT
 - http://quantumfieldtheory.info/
@@ -49,6 +49,10 @@
 ### ECT
 - https://arxiv.org/pdf/gr-qc/0606062.pdf
 
+## Abstract Philosophy
+
+### Intuitionism
+- http://www.ams.org/journals/bull/2017-54-03/S0273-0979-2016-01556-4/S0273-0979-2016-01556-4.pdf
 
 ## CS
 - https://theory.stanford.edu/~tim/f13/f13.html
