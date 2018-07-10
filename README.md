@@ -54,6 +54,11 @@
 ### Intuitionism
 - http://www.ams.org/journals/bull/2017-54-03/S0273-0979-2016-01556-4/S0273-0979-2016-01556-4.pdf
 
+### Computability
+- https://math.stackexchange.com/questions/946/computation-with-a-memory-wiped-computer
+- https://www.scottaaronson.com/blog/?p=152
+- https://en.wikipedia.org/wiki/Functional_square_root
+
 ## CS
 - https://theory.stanford.edu/~tim/f13/f13.html
 
