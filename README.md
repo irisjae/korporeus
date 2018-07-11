@@ -62,6 +62,9 @@
 ## CS
 - https://theory.stanford.edu/~tim/f13/f13.html
 
+### Computation
+- http://lambda-the-ultimate.org/node/4373
+
 ### Platform
 - http://docs.jasonette.com/actions/
 - https://codetalk.io/posts/2018-02-07-Mobile-Haskell.html
@@ -76,6 +79,10 @@
 - https://github.com/rev22/svgl
 - http://docs.tabris.com/latest/api/Canvas.html
 - http://docs.tabris.com/2.0/build.html
+
+### Typing
+- https://arxiv.org/pdf/1606.07557.pdf
+- http://www.cas.mcmaster.ca/~carette/publications/jfp.pdf
 
 ### PL
 - http://www.cl.cam.ac.uk/~sd601/papers/mlsub-preprint.pdf
