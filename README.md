@@ -111,6 +111,12 @@
 ### Crypto
 - https://en.bitcoin.it/wiki/Proof_of_Stake#cite_note-1
 
+### Git Submodules
+- https://gist.github.com/gitaarik/8735255
+- https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407
+- https://www.philosophicalhacker.com/post/using-git-submodules-effectively/
+- https://dev.to/dwd/git-submodules-revisited-1p54
+
 ## Tooling
 - https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/
 
